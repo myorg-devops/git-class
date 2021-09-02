@@ -7,3 +7,9 @@ Good Morning
 Welcome to New Class
 
 2nd Git
+
+
+# third line added
+
+
+Thrid new line enabled
